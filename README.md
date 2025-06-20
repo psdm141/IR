@@ -3,6 +3,7 @@ Planilha de Controle para Declaração do Imposto de Renda
 Esta planilha foi desenvolvida para ajudar no controle e organização das informações necessárias à Declaração do Imposto de Renda Pessoa Física (IRPF). Com ela, o usuário poderá reunir de forma prática e segura todos os dados que serão utilizados na hora de prestar contas à Receita Federal.
 
 Funcionalidades principais:
+
 🔹 Identificação do Titular
 No primeiro tópico da planilha, você poderá adicionar seus dados pessoais, como nome completo, CPF, data de nascimento, endereço, estado civil e informações dos dependentes. Isso facilita o preenchimento correto da sua declaração no sistema da Receita.
 
